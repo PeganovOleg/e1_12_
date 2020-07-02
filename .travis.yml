@@ -8,3 +8,8 @@ install:
 # command to run tests
 script:
   - pytest
+[![Travis][build-badge]][build]
+
+[build-badge]: https://img.shields.io/travis/PeganovOleg/e1_12_/master.png?style=flat-square
+
+[build]: https://travis-ci.org/PeganovOleg/e1_12_ 
